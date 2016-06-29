@@ -1,4 +1,4 @@
-# jms-examples
+**# jms-examples
 JMS applications begin by looking up a ConnectionFactory instance from JNDI (the Java Naming and Directory Interface), and then using this to create Connection and then Session instances.
 
 The following are JMS elements:
@@ -22,4 +22,4 @@ Few JMS Provider
 OpenJMS
 ActiveMQ
 HornetQ
-RabbitMQ
+RabbitMQ**
